@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1609062190,,"wq"
+|2,0,1609071081,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,51 @@
 # Registers:
 
 # File marks:
-'0  9  6  ~/aadi
-|4,48,9,6,1609062190,"~/aadi"
-'1  8  6  ~/prasad
-|4,49,8,6,1608997986,"~/prasad"
+'0  8  5  ~/mastan/raju
+|4,48,8,5,1609071081,"~/mastan/raju"
+'1  9  6  ~/aadi
+|4,49,9,6,1609062190,"~/aadi"
+'2  8  6  ~/prasad
+|4,50,8,6,1608997986,"~/prasad"
 
 # Jumplist (newest first):
+-'  8  5  ~/mastan/raju
+|4,39,8,5,1609071081,"~/mastan/raju"
+-'  1  0  ~/mastan/raju
+|4,39,1,0,1609071040,"~/mastan/raju"
 -'  9  6  ~/aadi
 |4,39,9,6,1609062190,"~/aadi"
+-'  9  6  ~/aadi
+|4,39,9,6,1609062190,"~/aadi"
+-'  1  0  ~/aadi
+|4,39,1,0,1609062152,"~/aadi"
 -'  1  0  ~/aadi
 |4,39,1,0,1609062152,"~/aadi"
 -'  8  6  ~/prasad
 |4,39,8,6,1608997986,"~/prasad"
 -'  8  6  ~/prasad
 |4,39,8,6,1608997986,"~/prasad"
+-'  8  6  ~/prasad
+|4,39,8,6,1608997986,"~/prasad"
+-'  8  6  ~/prasad
+|4,39,8,6,1608997986,"~/prasad"
+-'  1  0  ~/prasad
+|4,39,1,0,1608997939,"~/prasad"
+-'  1  0  ~/prasad
+|4,39,1,0,1608997939,"~/prasad"
 -'  1  0  ~/prasad
 |4,39,1,0,1608997939,"~/prasad"
 -'  1  0  ~/prasad
 |4,39,1,0,1608997939,"~/prasad"
 
 # History of marks within files (newest to oldest):
+
+> ~/mastan/raju
+	*	1609071078	0
+	"	8	5
+	^	8	6
+	.	8	5
+	+	8	5
 
 > ~/aadi
 	*	1609062184	0

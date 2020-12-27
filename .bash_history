@@ -107,3 +107,19 @@ clear
 ls
 git status
 init 0
+ls
+git status
+git add .
+git commit -m aadi
+git status
+git commit -am aadi1
+git branch --list
+git add .
+git commit -am aadi1
+git status
+git remote add origin git@github.com:Mastan-123/git.git
+git push -u origin master
+git remote add origin https://github.com/Mastan-123/git.git
+git remote add origin1 https://github.com/Mastan-123/git.git
+git push -u origin master
+git push -u origin1 master
